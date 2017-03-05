@@ -12,4 +12,6 @@ public class EnumExample {
         ContactMethod.PHONE.initiate("kahyoung");
         ContactMethod.EMAIL.initiate("nahold");
     }
+
+
 }
